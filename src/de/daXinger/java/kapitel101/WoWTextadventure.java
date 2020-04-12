@@ -1,4 +1,4 @@
-package de.daXinger.java.kapitel101;
+npackage de.daXinger.java.kapitel101;
 
 import java.io.BufferedReader;
 import java.io.IOException;
