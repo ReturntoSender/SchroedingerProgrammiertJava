@@ -19,7 +19,7 @@ public class KingSchroedinger {
 				System.out.println("Du gehst nach Norden.");
 				schritte++;
 				if (schritte >= 4) {
-					krone();
+					krone(args);
 					schritte = 0;	
 				}
 				break;
@@ -60,7 +60,7 @@ public class KingSchroedinger {
 		}
 	}
 	
-	public static void krone() {
+	public static void krone(String[] args) {
 		
 		
 		final int breite = 17;
