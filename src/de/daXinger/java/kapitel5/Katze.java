@@ -1,4 +1,4 @@
-package kapitel5;
+package de.daXinger.java.kapitel5;
 
 public class Katze {
 	private String name;
