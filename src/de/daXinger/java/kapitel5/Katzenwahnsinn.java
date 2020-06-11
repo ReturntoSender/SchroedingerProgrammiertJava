@@ -1,4 +1,4 @@
-package kapitel5;
+package de.daXinger.java.kapitel5;
 
 public class Katzenwahnsinn {
 	public static void main(String[] args) {
